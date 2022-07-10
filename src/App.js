@@ -34,10 +34,10 @@ const App = () => {
             </div>
             <button onClick={GenerateQRCode}>Generate</button>
             {qrcode &&
-                <>
+                <div className='code'>
                 <img src={qrcode} alt='qr'/>
                 <a href={qrcode} download='qrcode.png'>Download</a>
-                </>}
+                </div>}
         </div>
     )
 }
