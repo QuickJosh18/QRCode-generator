@@ -1,3 +1,11 @@
+![qrcode1](https://user-images.githubusercontent.com/69915632/178162692-7e6f4521-e931-4977-aceb-8370667f2ede.png)
+
+![qrcode2](https://user-images.githubusercontent.com/69915632/178162693-87cc3b58-5141-4b6d-9ea2-1d6e210d0af2.png)
+
+# React QR Code generator
+
+Simple webapp generating QR code with download using React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
